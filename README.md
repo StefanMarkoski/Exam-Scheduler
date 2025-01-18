@@ -1,4 +1,4 @@
-# calendar_app
+# exam scheduler using calendar
 
 A new Flutter project.
 
